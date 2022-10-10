@@ -5,4 +5,4 @@
 ### 👋 Hi, I’m @GeorgeFilos
 - 💻 I'm a Discord Bot Developer, using the Discord.js Libray for my Bots.
 - ⚡ I'm also interested in Web Development.
-- 
+- 📋 You can find examples of my work on my Github Repositories.
