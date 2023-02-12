@@ -7,3 +7,12 @@
 - ⚡ I'm also interested in Web Development.
 - 📋 You can find examples of my work on my Github Repositories.
 - 📞 Contact me on Discord: [George#6242](https://discordapp.com/users/177083022305263616)
+
+### Stats
+[![trophy stuff](https://github-profile-trophy.vercel.app/?username=GeorgeFilos&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
+
+[![github stats](https://github-readme-stats.vercel.app/api?username=GeorgeFilosA&theme=tokyonight&count_private=true&hide=issues,contribs)](https://github.com/anuraghazra/github-readme-stats)
+
+[![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=GeorgeFilos&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+[![top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GeorgeFilos&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
